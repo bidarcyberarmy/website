@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MonaSans'; 
+    src: url('assets/fonts/Mona-Sans.woff2') format('woff2'), 
+         url('assets/fonts/Mona-Sans.woff') format('woff');
+    
+}
+
+body {
+    font-family: 'MonaSans', sans-serif;
+
+}
